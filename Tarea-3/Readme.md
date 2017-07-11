@@ -1,9 +1,9 @@
 
 # Desarrollo Tarea 3
 
-international-airline... .csv -> corresponde al dataset
 
-P1.py  -> codigo de apoyo para el desarrollo de la pregunta 1 ( esta contenido en el desarrollo oficial)
 
-Pregunta_1.ipynb -> desarrollo oficial pregunta 1
-
+(*)Aclaraciòn:
+ Entre los contribuidores en algunas partes aparece el nombre Maria Jesus,
+es porque para algunas cosas use el computador de mi polola y git por consola
+no me permitia cambiar el nombre.
