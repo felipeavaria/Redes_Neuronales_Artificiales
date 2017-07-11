@@ -1,5 +1,5 @@
-# Redes_Neuronales_Artificiales
-tareas ramo inf-477 
+# Tareas Introducciòn a Redes Neuronales Artificiales
+
 
 |Nombre| Rol|
 |-----|-----|
